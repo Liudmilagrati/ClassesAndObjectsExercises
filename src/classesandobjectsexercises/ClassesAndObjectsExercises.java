@@ -6,7 +6,7 @@ package classesandobjectsexercises;
 
 /**
  *
- * @author user
+ * @author Liudmila
  */
 public class ClassesAndObjectsExercises {
 
@@ -14,7 +14,7 @@ public class ClassesAndObjectsExercises {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello World!");
     }
     
 }
