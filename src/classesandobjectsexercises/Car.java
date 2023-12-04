@@ -6,7 +6,7 @@ package classesandobjectsexercises;
 
 /**
  *
- * @author user
+ * @author Liudmila
  */
 public class Car {
     String make;
