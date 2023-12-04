@@ -9,5 +9,13 @@ package classesandobjectsexercises;
  * @author user
  */
 public class Car {
+    String make;
+    String model; 
+    int numWheels; 
+    String colour;
+    
+    public void drive(String direction) {
+        System.out.println ("The" + colour + " " + make + " is driving " + direction);
+    }
     
 }
