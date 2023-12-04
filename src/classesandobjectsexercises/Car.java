@@ -9,5 +9,9 @@ package classesandobjectsexercises;
  * @author user
  */
 public class Car {
+    String make;
+    String model;
+    String numWheels;
+    String colour;
     
 }
