@@ -18,6 +18,9 @@ public class Car {
         System.out.println(String.format("The %s %s is driving  at %f degree" , colour, direction));
         System.out.printf("The %s %s is driving  at %f degree" , colour, direction);
     }
- 
+    
+    public void drive(String direction) {
+        System.out.println ("The" + colour + " " + make + " is driving " + direction);
+    }
     
 }
