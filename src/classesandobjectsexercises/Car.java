@@ -10,8 +10,9 @@ package classesandobjectsexercises;
  */
 public class Car {
     String make;
-    String model;
-    String numWheels;
+    String model; 
+    int numWheels; 
     String colour;
+    
     
 }
